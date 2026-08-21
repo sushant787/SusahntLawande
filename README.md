@@ -45,5 +45,7 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * Red Hat Certified System Administrator in Red Hat (RHCE)
 
 ## Get in touch ##
+@linkedin.com/in/sushant-lawande
+
 
 * I'm open to remote DevOps and Platform Engineering roles with EU and US teams.
