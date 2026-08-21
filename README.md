@@ -48,5 +48,6 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * linkdein: linkedin.com/in/sushant-lawande
 * Git: https://github.com/sushant787/SushantLawande.git
 * Email: lawande.sushant@gmail.com
+  
 
-* I'm open to remote DevOps and Platform Engineering roles with EU and US teams.
+* I'm open to remote DevOps and Platform Engineering roles with Global teams.
