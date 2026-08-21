@@ -33,3 +33,13 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * Cloud governance & security — Implemented Azure governance and security controls across subscriptions and resource groups, including RBAC, policy enforcement, tagging, cost controls, Defender for Cloud, and security best practices.
 * Production reliability & capacity planning — Analysed infrastructure utilisation, application workload patterns, and Kubernetes metrics to forecast capacity requirements, optimise resource allocation, and improve platform stability.
 * Multi-cloud infrastructure — Managed and supported cloud infrastructure across Azure and AWS, with strong focus on Azure platform engineering, Kubernetes, cloud networking, security, automation, observability, and cost optimisation.
+
+## Certifications ##
+
+* Microsoft Certified: Azure Solutions Architect Expert
+* Microsoft Certified: Azure Fundamentals
+* Amazon Web Services Solutions Architect Associate
+* IBM Certified Deployment Professional - Rational UrbanCode Release
+* IBM Certified System Administrator - WebSphere Application Server Network Deployment V8.5.5
+* IBM Blockchain Essential
+* Red Hat Certified System Administrator in Red Hat (RHCE)
