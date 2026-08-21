@@ -16,5 +16,5 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * Infrastructure as Code — Modular Terraform across AWS and Azure, remote state, environment consistency
 * CI/CD — GitHub Actions, Azure DevOps, Jenkins; pipeline orchestration across 40+ microservices
 * Observability — Prometheus, Grafana, Fluent Bit; centralized metrics and logging on Kubernetes
-* Cloud — Azure (AKS, VNet, Application Gateway/ALB, Azure DNS, Storage Accounts, Entra ID/IAM, Key Vault, Azure Monitor) · AWS (EKS, VPC, ALB, Route 53, S3, IAM, CloudWatch)
+* Cloud — Azure (AKS, VNet, Application Gateway/ALB, Azure DNS, Storage Accounts, Entra ID/IAM, Key Vault, Azure Monitor, Microsft Defender, Governance, Security) · AWS (EKS, VPC, ALB, Route 53, S3, IAM, CloudWatch)
 * Security — Trivy, Azure Defender, DevSecOps integration in CI pipelines
