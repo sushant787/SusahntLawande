@@ -10,3 +10,11 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * 🤝 Open to collaborating on open-source projects, DevOps initiatives, and innovative cloud-native solutions
 * 💬 Ask me about Python, Cloud Architecture, DevOps, Kubernetes, Platform Engineering, and Cloud Infrastructure
 
+## What I work with ##
+
+* Kubernetes — EKS & AKS in production, GitOps delivery with Argo CD and Kustomize, HPA tuning, chaos engineering
+* Infrastructure as Code — Modular Terraform across AWS and Azure, remote state, environment consistency
+* CI/CD — GitHub Actions, Azure DevOps, Jenkins; pipeline orchestration across 40+ microservices
+* Observability — Prometheus, Grafana, Fluent Bit; centralized metrics and logging on Kubernetes
+* Cloud — Azure (AKS, VNet, Application Gateway/ALB, Azure DNS, Storage Accounts, Entra ID/IAM, Key Vault, Azure Monitor) · AWS (EKS, VPC, ALB, Route 53, S3, IAM, CloudWatch)
+* Security — Trivy, Azure Defender, DevSecOps integration in CI pipelines
