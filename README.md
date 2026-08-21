@@ -43,3 +43,7 @@ I’m a DevOps & Platform Engineering professional from India 🇮🇳 with 15+ 
 * IBM Certified System Administrator - WebSphere Application Server Network Deployment V8.5.5
 * IBM Blockchain Essential
 * Red Hat Certified System Administrator in Red Hat (RHCE)
+
+## Get in touch ##
+
+* I'm open to remote DevOps and Platform Engineering roles with EU and US teams.
